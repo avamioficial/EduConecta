@@ -1,0 +1,11 @@
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icono_gorro.png"
+  adaptive_icon_background: "#020C32"
+  adaptive_icon_foreground: "assets/icon/icono_gorro_adaptivo.png"
+  web:
+    generate: true
+    image_path: "assets/icon/icono_gorro.png"
+    background_color: "#020C32"
+    theme_color: "#020C32"
